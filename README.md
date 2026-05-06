@@ -1,2 +1,4 @@
 # WebRTConnect
-Connect to webRTC socket with a JWT in URL
+Connect to a webRTC socket with just a JWT and URL.
+
+fin
